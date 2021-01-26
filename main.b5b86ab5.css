@@ -1,0 +1,2 @@
+.clock{width:400px}.clock__img{width:400px;height:400px}.clock__hand{background-color:#000;width:2px;transform:rotate(0deg);transform-origin:bottom center}.clock__hand-second{position:absolute;top:calc(39% - 47px);left:199px;height:90px;animation:clock 1s linear infinite}.clock__hand--hour{position:absolute;top:calc(32% - 77px);left:199px;height:150px;animation:clock 60s linear infinite}@keyframes clock{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}.page__clock{position:relative;margin:0 auto}
+/*# sourceMappingURL=main.b5b86ab5.css.map */
